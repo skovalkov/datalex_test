@@ -1,6 +1,0 @@
-Report on Wed Jan 25 12:11:08 BRT 2017
-/------------------------/
-Successfully processed files: 
-/------------------------/
-Folder : .\src\main\resources\input\childrenFolder2
- - mask2

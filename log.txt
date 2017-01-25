@@ -1,6 +1,0 @@
-12:00:27,482  INFO main com.epam.skovalkov.FileScannerApp:main:22 - Start application..
-12:00:27,529 DEBUG main com.epam.skovalkov.impl.CopierImpl:copy:68 - File .\src\main\resources\input\childrenFolder2\mask2 was deleted successfully
-12:00:27,544  INFO main com.epam.skovalkov.FileScannerApp:main:41 - Application is stopped.
-12:11:08,922  INFO main com.epam.skovalkov.FileScannerApp:main:24 - Start application..
-12:11:08,978 DEBUG main com.epam.skovalkov.impl.CopierImpl:copy:66 - File .\src\main\resources\input\childrenFolder2\mask2 was deleted successfully
-12:11:08,978  INFO main com.epam.skovalkov.FileScannerApp:main:46 - Application is stopped.
