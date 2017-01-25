@@ -1,0 +1,1 @@
+è11:52:44,312  WARN Test worker com.epam.skovalkov.impl.ArgValidatorImpl:validateNonMandatoryProperties:52 - Non-mandatory param mask is empty
