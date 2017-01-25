@@ -19,3 +19,6 @@ For using this app you need to set mandatory system properties:
 Also you can specify non-mandatory system properties:
 - mask (filename pattern)
 - autoDelete (delete files after processing)
+
+#Example
+gradle execute -DinputFolder="./src/main/resources/input" -DoutputFolder="./src/main/resources/out" -Dmask="mask2" -DautoDelete=false
